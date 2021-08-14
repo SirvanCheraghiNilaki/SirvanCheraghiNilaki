@@ -2,8 +2,6 @@
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api?username=SirvanCheraghi&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=radical' alt='Github stats' align='center' />
 </div>
-<br />
-
 <div align='center'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=SirvanCheraghi&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=radical' alt='Github stats' align='center' />
 </div>
@@ -18,12 +16,3 @@
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SirvanCheraghi&layout=compact&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=radical' alt='Languages' align='center' />
 </div>
 <br />
-<br />
-<br />
-<br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
