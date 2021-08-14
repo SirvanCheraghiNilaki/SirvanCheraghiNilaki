@@ -1,3 +1,1 @@
-<a href="https://github.com/SirvanCheraghi/">
-  <img align="center" src="https://wakatime.com/share/@SirvanCheraghi&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@SirvanCheraghi&compact=True"/>
-</a>
+<figure><embed src="https://wakatime.com/share/@SirvanCheraghi/a043bdc2-9e7e-4ce0-8c30-b385c8ac8ff2.svg"></embed></figure>
