@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align='right' style="height: 600px; width: auto;">
+<div style="height: 600px; width: auto; align: right">
 <a href="https://GitHub.com/SirvanCheraghi"><img src="https://wakatime.com/share/@SirvanCheraghi/a7cd5eb5-377e-40e9-a229-b48b6942fa3d.png" /></a>
 </div>
