@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=SirvanCheraghi&layout=compact' alt='Languages over last 7 days ' align='center' />
+<a href="https://GitHub.com/SirvanCheraghi"><img src="https://wakatime.com/share/@SirvanCheraghi/a7cd5eb5-377e-40e9-a229-b48b6942fa3d.png" /></a>
 </div>
