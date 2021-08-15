@@ -11,7 +11,6 @@
 <div align='center'>
     <figure><embed src="https://wakatime.com/share/@SirvanCheraghi/703a77b3-26c2-47c3-9aed-4136d30af237.svg"></embed></figure>
 </div>
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=SirvanCheraghi"></a>
 
 <br />
 <div align='center'>
