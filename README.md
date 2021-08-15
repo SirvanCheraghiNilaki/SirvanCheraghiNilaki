@@ -3,7 +3,6 @@
 
 My name is **Sirvan**.
 
-<br>
 
 # 📈 Stats:
 <div align='center'>
@@ -16,10 +15,10 @@ My name is **Sirvan**.
 </div>
 <br>
 <div align='center'>
-    <figure><embed src="https://wakatime.com/share/@SirvanCheraghi/703a77b3-26c2-47c3-9aed-4136d30af237.svg"></embed></figure>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SirvanCheraghi&layout=compact&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=radical' alt='Languages' align='center' />
 </div>
 <br>
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SirvanCheraghi&layout=compact&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=radical' alt='Languages' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Neikan&layout=compact' alt='Languages over last 7 days ' align='center' />
 </div>
 <br>
