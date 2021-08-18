@@ -7,10 +7,10 @@ My name is **Sirvan**.
 # 📈 Stats:
 
 <span align="left">
-    <img src='https://github-readme-stats.vercel.app/api?username=SirvanCheraghi&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=radical' alt='Github stats' align="left" />
+    <img src='https://github-readme-stats.vercel.app/api?username=SirvanCheraghi&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=radical' alt='Github stats' align="center" />
 </span>
 <span align="right">
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=SirvanCheraghi&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=radical' alt='Github stats' align="right" />
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=SirvanCheraghi&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=radical' alt='Github stats' align="center" />
 </span>
 </div>
 <br>
