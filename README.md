@@ -25,3 +25,6 @@ My name is **Sirvan**.
 <span>
 <figure><embed src="https://wakatime.com/share/@SirvanCheraghi/2e0ba31d-d9da-4c31-bf8f-b50a556043a0.svg"></embed></figure>
 </span>
+<span>
+    <figure><embed src="https://wakatime.com/share/@SirvanCheraghi/684f93cd-9eb9-4307-86ed-2fdb594c7855.svg"></embed></figure>
+</span>
