@@ -23,7 +23,7 @@ My name is **Sirvan**.
 <br>
 </div>
 <span>
-<img src="https://wakatime.com/share/@SirvanCheraghi/937325ca-ee1a-466c-a891-b6d7b20312eb.png" />
+<img src="https://wakatime.com/share/@SirvanCheraghi/937325ca-ee1a-466c-a891-b6d7b20312eb.png" align="center"/>
 </span>
 <span>
     <figure><embed src="https://wakatime.com/share/@SirvanCheraghi/684f93cd-9eb9-4307-86ed-2fdb594c7855.svg"></embed></figure>
