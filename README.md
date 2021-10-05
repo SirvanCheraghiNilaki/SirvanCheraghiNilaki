@@ -24,6 +24,6 @@ My name is **Sirvan**.
     </div>
     <br>
     <span>
-        <img src='https://wakatime.com/share/@SirvanCheraghi/937325ca-ee1a-466c-a891-b6d7b20312eb.png' style="align-content: center; max-width: 120px;" />
+        <img src='https://wakatime.com/share/@SirvanCheraghi/937325ca-ee1a-466c-a891-b6d7b20312eb.png' style="align-content: center; max-width: 120px; border: 5px; border-radius: 3px; border-color: aquamarine;" />
     </span>
 </div>
