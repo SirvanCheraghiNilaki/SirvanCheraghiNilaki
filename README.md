@@ -3,8 +3,8 @@
 
 <br>
 
-> **I'm Sirvan; Full Stack Web Developer From Persia.**
-> 
+> **I'm Sirvan; Just a curious developer!**
+> Glad to see you hither! 👀
 
 
 # 📈 Stats:
