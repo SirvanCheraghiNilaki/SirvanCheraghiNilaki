@@ -28,7 +28,7 @@
   </a>
 </div>
 
-<h1 align="center"> < <img src="./images/Wave.gif" width="27" alt="wave"> Hello World! /> </h1>
+<h1 align="center"> < <img src="./img/icons/Wave.gif" width="27" alt="wave"> Hello World! /> </h1>
 
 > **I am Sirvan, Front-end Web-Developer from Persia.**\
 > **My pleasure to see thy hither!**\
