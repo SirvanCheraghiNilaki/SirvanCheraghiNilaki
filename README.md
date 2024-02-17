@@ -180,15 +180,15 @@
   <summary><b>My Links</b></summary><br>
   <div align="center">
     <a href="https://linkedin.com/in/SirvanCheraghiNilaki">
-      <img height="40" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.svg" />
+      <img height="40" alt="LinkedIn" title="LinkedIn" src="./img/icons/linkedin.svg" />
     </a>
     &nbsp;&nbsp;
     <a href="https://freecodecamp.org/SirvanCheraghiNilaki">
-      <img height="40" alt="FreeCodeCamp" title="FreeCodeCamp" src="./images/fcc.svg" />
+      <img height="40" alt="FreeCodeCamp" title="FreeCodeCamp" src="./img/icons/fcc.svg" />
     </a>
     &nbsp;&nbsp;
     <a href="https://sololearn.com/profile/23039755">
-      <img height="40" alt="SoloLearn" title="SoloLearn" src="./images/sololearn.svg" />
+      <img height="40" alt="SoloLearn" title="SoloLearn" src="./img/icons/sololearn.svg" />
     </a>
   </div>
 </details>
