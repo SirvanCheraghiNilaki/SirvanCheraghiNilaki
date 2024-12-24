@@ -215,8 +215,3 @@
     <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=SirvanCheraghiNilaki&theme=radical&margin-w=30&no-frame=true" />
   </a>
 </details>
-<div  align="center">
-  <a href="https://codewars.com/users/SirvanCheraghiNilaki">
-    <img alt="CodeWars" title="Practice Makes Perfect" src="https://codewars.com/users/SirvanCheraghiNilaki/badges/large" style="width:70%; max-width:350px;"/></div>
-  </a><br>
-</details>
