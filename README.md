@@ -14,9 +14,6 @@
   <a href="https://badges.pufler.dev">
     <img alt="Commits" title="My Commits" src="https://badges.pufler.dev/commits/monthly/SirvanCheraghiNilaki?color=green&logo=hotjar&logoColor=white" />
   </a>
-  <a href="https://wakatime.com/SirvanCheraghiNilaki">
-    <img src="https://wakatime.com/badge/user/547ff532-32f5-41bf-aba6-cbc2785b8253.svg" alt="Total Time Coded" />
-  </a>
   <a href="https://microsoft.com/software-download/windows11">
     <img alt="Ubuntu" title="Using Windows 11" src="https://img.shields.io/badge/Windows_11-004Fe1?logo=windows&logoColor=white" />
   </a>
@@ -207,9 +204,6 @@
   <div align="center">
     <a href="https://github-readme-stats.vercel.app">
       <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirvanCheraghiNilaki&theme=radical&hide_border=true&layout=compact" />
-    </a>
-    <a href="https://wakatime.com/SirvanCheraghiNilaki">
-      <img align="center" alt="Wakatime Stats" height="156" src="https://github-readme-stats.vercel.app/api/wakatime?username=SirvanCheraghiNilaki&theme=radical&hide_border=true&langs_count=6&layout=compact" />
     </a>
   </div>
 </details>
